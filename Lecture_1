@@ -4,4 +4,9 @@ https://www.youtube.com/watch?v=89yWXXIOisk&t=76s
 ->As the developer keeps change the code, he will deposit into Git (1:59)
 ->In the scenario there are many developers change codes and commit to Git (2:12) at the
 end of the day.
-->If there is a bug in any of the code (2:22), 
+->If there is a bug in any of the code (2:22) so build fails, it will be realy difficult
+for us to identify what/where (2:27) exact the code failed on the build and at what(2:30)
+point was this is a bug introduced in the code(2:34)
+->THen you have to go back and check all the coes created on that day (2:41). It will have a lot
+of confustion
+->
