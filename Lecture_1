@@ -16,4 +16,7 @@ and trigger the bulid (2:55)
 (3:08). 
 ->Therefore developers can make an change and commit again and trigger another buil until compleses (
 (3:09)(3:11)
+->We will know where the codes get break (3:30)
+->Once the build is sucess, we can integrate our unit test/acceptance/performance test
+(3:36) along with the build (3:37)
 ->
