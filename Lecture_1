@@ -1,3 +1,7 @@
 https://www.youtube.com/watch?v=89yWXXIOisk&t=76s
-->Continous software integration and delivery (1:37)
-->
+->Continous integration and continous delivery (1:37)
+->Devloper keep on enhancing and change codes (1:51)
+->As the developer keeps change the code, he will deposit into Git (1:59)
+->In the scenario there are many developers change codes and commit to Git (2:12) at the
+end of the day.
+->If there is a bug in any of the code (2:22), 
