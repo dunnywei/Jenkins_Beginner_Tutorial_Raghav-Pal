@@ -8,5 +8,12 @@ end of the day.
 for us to identify what/where (2:27) exact the code failed on the build and at what(2:30)
 point was this is a bug introduced in the code(2:34)
 ->THen you have to go back and check all the coes created on that day (2:41). It will have a lot
-of confustion
+of confustion (2:46)
+-> As soon as developers commit to Git repository(2:55), Jenkin will take the last code
+and trigger the bulid (2:55)
+-> The build notification will be sent out (3:02)
+-> If there is any problem or any error (3:05), u will get notified as soon as possible
+(3:08). 
+->Therefore developers can make an change and commit again and trigger another buil until compleses (
+(3:09)(3:11)
 ->
