@@ -19,4 +19,11 @@ and trigger the bulid (2:55)
 ->We will know where the codes get break (3:30)
 ->Once the build is sucess, we can integrate our unit test/acceptance/performance test
 (3:36) along with the build (3:37)
+->And the post-build action in Jenkins (3:39). It can be automated and deployed (3:44)
+->Jenkin can also trigger some test cases or some testing which will be automated (3:50). It will send out the report back to us
+(3:53)
+->Build is successful and there is no exception due to the change in the code (4:00). However, there is sth brokeen
+in that application (4:03). We Will will know it instanly that there is sth broken (4:06) and we can troubleshoot(4:09)
+->(4:47) downlaoding and setup
+->
 ->
